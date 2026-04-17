@@ -15,7 +15,7 @@ A gamified calendar application with event management and task tracking. Users c
 
 Users create and manage calendar events with recurring patterns across multiple views (month, week, day, year). Events can be marked complete with visual feedback, and the interface includes a gamification system with tier progression and achievement tracking to encourage consistent usage.
 
-<img width="7680" height="4320" alt="Calendarify UI" src="https://github.com/user-attachments/assets/adc1121c-cf4e-4e71-8cec-a5b380216eb9" />
+<img alt="Calendarify UI" src="https://github.com/user-attachments/assets/adc1121c-cf4e-4e71-8cec-a5b380216eb9" />
 <sub><i>Calendarify week view with recurring events and progress sidebar</i></sub>
 
 ## Tech Stack
